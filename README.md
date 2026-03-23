@@ -4,7 +4,7 @@
 I like to play around with backend & infrastructures.
 
 Get to know me more!
-🔗 **[isomorfisma.github.io](https://isomorfisma.github.io)**
+**[isomorfisma.github.io](https://isomorfisma.github.io)**
 
 Or if you have a terminal open, you can SSH directly into my cloud instance:
 ```bash
