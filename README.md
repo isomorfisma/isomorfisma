@@ -1,4 +1,4 @@
-# Hi, I'm Mikel
+# hi, i'm michael
 **Computer Science student @PadjadjaranUniversity**
 
 I like to play around with backend & infrastructures.
