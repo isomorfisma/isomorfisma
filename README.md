@@ -1,7 +1,8 @@
 # hi, i'm michael
 **Computer Science student @PadjadjaranUniversity**
 
-I like to play around with backend & learn about infrastructures.
+
+I'm the backend dev she tells you not to worry about :D
 
 Get to know me more!
 **[isomorfisma.github.io](https://isomorfisma.github.io)**
